@@ -137,8 +137,8 @@ input[type=checkbox] + label:active:before {
 }
 
 input[type=checkbox]:checked + label:before {
-  background-color: #f67d4a;
-  border-color: #f67d4a;
+  background-color: red;
+  border-color: red;
   color: #fff;
 }
 
@@ -163,7 +163,7 @@ input[type=checkbox]:checked:disabled + label:before {
 .forget-btn a{
     display: inline-block;
     font-size: 14px;
-    color: #f67d4a;
+    color: red;
 }
 .input-box label {
     color: #676B79;
@@ -174,9 +174,9 @@ input[type=checkbox]:checked:disabled + label:before {
 .tp-accountForm .tp-accountBtn{
     font-size: 16px;
     padding: 10px 20px;
-    border: 2px solid #f67d4a;
+    border: 2px solid red;
     width: 100%;
-    background: #f67d4a;
+    background: red;
     color:#fff;
    transition: all .4s ease-in-out 0s; 
    margin-top: 30px;
@@ -200,7 +200,7 @@ input[type=checkbox]:checked:disabled + label:before {
     background: #202120;
     position: relative;
     top: -14px;
-    color: #f67d4a;
+    color: red;
 }
 .tp-socialLoginBtn {
     display: flex;
@@ -244,7 +244,7 @@ input[type=checkbox]:checked:disabled + label:before {
 .subText a {
     display: inline-block;
     font-size: 14px;
-    color: #f67d4a;
+    color: red;
 }
 
 

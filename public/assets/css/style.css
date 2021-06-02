@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Theme Name:     Sadakat - Charity Nonprofit HTML 5 Template
+Theme Name:     PK Donatory - Charity Nonprofit HTML 5 Template
 Version:        1.0.0
 Author:         wpocans
 URL:            http://themeforest.net/user/wpoceans
@@ -210,7 +210,7 @@ img {
 .contact-validation-active #loader i {
     font-size: 30px;
     font-size: 1.875rem;
-    color: #f67d4a;
+    color: red;
     display: inline-block;
     -webkit-animation: rotating linear 2s infinite;
     animation: rotating linear 2s infinite;
@@ -326,7 +326,7 @@ img {
 .tp-section-title span {
     font-size: 18px;
     font-weight: 400;
-    color: #f67d4a;
+    color: red;
     display: block;
     margin-bottom: 10px;
     font-family: 'Rubik', sans-serif;
@@ -359,7 +359,7 @@ img {
 .theme-btn-s2,
 .theme-btn-s4,
 .theme-btn-s3 {
-    background-color: #f67d4a;
+    background-color: red;
     color: #fff;
     font-weight: 700;
     padding: 13px 38px;
@@ -393,7 +393,7 @@ img {
 .theme-btn-s2:active,
 .theme-btn-s4:active,
 .theme-btn-s3:active {
-    background-color: #f67d4a;
+    background-color: red;
     color: #fff;
 }
 
@@ -474,7 +474,7 @@ img {
 }
 
 .social-links li a:hover {
-    background-color: #f67d4a;
+    background-color: red;
 }
 
 /******************************
@@ -553,7 +553,7 @@ img {
 }
 
 .page-title .breadcrumb li a {
-    color: #f67d4a;
+    color: red;
 }
 
 .page-title .breadcrumb li a:hover {
@@ -571,7 +571,7 @@ img {
     position: absolute;
     left: -14px;
     top: 1px;
-    color: #f67d4a;
+    color: red;
 }
 
 .preloader {
@@ -611,7 +611,7 @@ img {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #f67d4a;
+    background-color: red;
     -webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
     animation: sk-foldCubeAngle 2.4s infinite linear both;
     -webkit-transform-origin: 100% 100%;
@@ -851,11 +851,11 @@ img {
 }
 
 .tp-blog-sidebar .category-widget ul a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-blog-sidebar .category-widget ul li:hover:before {
-    background: #f67d4a;
+    background: red;
 }
 
 .tp-blog-sidebar .recent-post-widget .post {
@@ -905,7 +905,7 @@ img {
 }
 
 .tp-blog-sidebar .recent-post-widget .post h4 a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-blog-sidebar .recent-post-widget .post .details .date {
@@ -996,7 +996,7 @@ img {
 }
 
 .tp-blog-sidebar .tag-widget ul li a:hover {
-    background: #f67d4a;
+    background: red;
     color: #fff;
 }
 
@@ -1051,8 +1051,8 @@ img {
 
 .pagination-wrapper .pg-pagination .active a,
 .pagination-wrapper .pg-pagination li a:hover {
-    background: #f67d4a;
-    border-color: #f67d4a;
+    background: red;
+    border-color: red;
     color: #fff;
 }
 
@@ -1175,11 +1175,11 @@ img {
 }
 
 .category-sidebar .category-widget ul a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .category-sidebar .category-widget ul li:hover:before {
-    background: #f67d4a;
+    background: red;
 }
 
 .category-sidebar .tag-widget {
@@ -1221,13 +1221,13 @@ img {
 }
 
 .category-sidebar .tag-widget ul a:hover {
-    background: #f67d4a;
-    background: -webkit-linear-gradient(left, #f67d4a, #3a9ce0);
-    background: -moz-linear-gradient(left, #f67d4a, #3a9ce0);
-    background: -o-linear-gradient(left, #f67d4a, #3a9ce0);
-    background: -ms-linear-gradient(left, #f67d4a, #3a9ce0);
-    background: -webkit-gradient(linear, left top, right top, from(#f67d4a), to(#3a9ce0));
-    background: linear-gradient(left, #f67d4a, #3a9ce0);
+    background: red;
+    background: -webkit-linear-gradient(left, red, #3a9ce0);
+    background: -moz-linear-gradient(left, red, #3a9ce0);
+    background: -o-linear-gradient(left, red, #3a9ce0);
+    background: -ms-linear-gradient(left, red, #3a9ce0);
+    background: -webkit-gradient(linear, left top, right top, from(red), to(#3a9ce0));
+    background: linear-gradient(left, red, #3a9ce0);
     color: #fff;
 }
 
@@ -1336,7 +1336,7 @@ img {
 }
 
 .news-letter-section form>div button {
-    background: #f67d4a;
+    background: red;
     width: 150px;
     height: 45px;
     font-weight: 600;
@@ -1409,7 +1409,7 @@ img {
 
 .tp-site-header #navbar>ul li a:hover {
     text-decoration: none;
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-site-header #navbar>ul li a:focus {
@@ -1459,7 +1459,7 @@ img {
     }
 
     .tp-site-header #navbar>ul>li .sub-menu a:hover {
-        color: #f67d4a;
+        color: red;
     }
 
     .tp-site-header #navbar>ul>li>.sub-menu .sub-menu {
@@ -1691,7 +1691,7 @@ img {
     }
 
     .tp-site-header .navbar-header button {
-        background-color: #f67d4a;
+        background-color: red;
         width: 40px;
         height: 35px;
         border: 0;
@@ -1749,7 +1749,7 @@ img {
     }
 
     .tp-site-header #navbar .close-navbar {
-        background-color: #f67d4a;
+        background-color: red;
         width: 40px;
         height: 40px;
         color: #fff;
@@ -1932,7 +1932,7 @@ img {
 }
 
 .tp-site-header .cart-search-contact .mini-cart .cart-count {
-    background: #f67d4a;
+    background: red;
     width: 22px;
     height: 22px;
     line-height: 22px;
@@ -2033,7 +2033,7 @@ img {
 }
 
 .tp-site-header .cart-search-contact .mini-cart-content .mini-cart-item-des a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-site-header .cart-search-contact .mini-cart-content .mini-cart-item-des .mini-cart-item-price {
@@ -2061,7 +2061,7 @@ img {
 
 .tp-site-header .cart-search-contact .mini-cart-content .mini-cart-action .theme-btn-s4 {
     float: right;
-    background: #f67d4a;
+    background: red;
     color: #fff;
 }
 
@@ -2472,7 +2472,7 @@ img {
 
 .tp-header-style-2 .topbar .contact-info ul li a:hover,
 .tp-header-style-3 .topbar .contact-info ul li a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-header-style-3 .topbar ul li {
@@ -2895,7 +2895,7 @@ img {
 }
 
 .hero .slick-dots button {
-    background-color: #f67d4a;
+    background-color: red;
     width: 14px;
     height: 14px;
     border: 2px solid #fff;
@@ -3001,7 +3001,7 @@ img {
 }
 
 .hero-style-1 .slide .slide-caption h2 span {
-    color: #f67d4a;
+    color: red;
 }
 
 @media (max-width: 1199px) {
@@ -3398,7 +3398,7 @@ hero-style3
 }
 
 .header-style-1 .sticky-header {
-    background-color: #f67d4a;
+    background-color: red;
     border-bottom: 0;
 }
 
@@ -3574,11 +3574,11 @@ hero-style3
 
 .tp-site-footer .about-widget ul a:hover,
 .tp-site-footer-2 .about-widget ul a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-site-footer-2 .about-widget ul a {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-site-footer .link-widget,
@@ -3866,7 +3866,7 @@ hero-style3
 
 .tp-news-letter-section form>div button,
 .tp-news-letter-section-2 form>div button {
-    background: #f67d4a;
+    background: red;
     width: 150px;
     height: 45px;
     font-weight: 600;
@@ -4021,7 +4021,7 @@ ul {
 .section-title span,
 .section-title-1 span {
     font-size: 16px;
-    color: #f67d4a;
+    color: red;
     font-weight: 600;
     text-transform: capitalize;
     margin-bottom: 10px;
@@ -4046,7 +4046,7 @@ ul {
     bottom: 0;
     width: 80px;
     height: 3px;
-    background: #f67d4a;
+    background: red;
     border-radius: 20px;
 }
 
@@ -4111,7 +4111,7 @@ ul {
 .section-title span,
 .section-title-1 span {
     font-size: 16px;
-    color: #f67d4a;
+    color: red;
     font-weight: 600;
     text-transform: capitalize;
     margin-bottom: 10px;
@@ -4138,7 +4138,7 @@ ul {
     bottom: 0;
     width: 80px;
     height: 3px;
-    background: #f67d4a;
+    background: red;
     border-radius: 20px;
     transform: translateX(-50%);
 }
@@ -4200,7 +4200,7 @@ ul {
 
 @-webkit-keyframes spineer {
     0% {
-        -webkit-box-shadow: 0 0 0 0 #f67d4a;
+        -webkit-box-shadow: 0 0 0 0 red;
     }
 
     70% {
@@ -4214,8 +4214,8 @@ ul {
 
 @keyframes spineer {
     0% {
-        -webkit-box-shadow: 0 0 0 0 #f67d4a;
-        box-shadow: 0 0 0 0 #f67d4a;
+        -webkit-box-shadow: 0 0 0 0 red;
+        box-shadow: 0 0 0 0 red;
     }
 
     70% {
@@ -4350,7 +4350,7 @@ ul {
 }
 
 .cause-text h3 a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .cause-item:before {
@@ -4358,7 +4358,7 @@ ul {
     left: 0;
     top: 0;
     height: 0%;
-    border-left: 3px solid #f67d4a;
+    border-left: 3px solid red;
     content: "";
     transition: all .8s;
     z-index: 11;
@@ -4369,7 +4369,7 @@ ul {
     right: 0;
     bottom: 0;
     height: 0%;
-    border-right: 3px solid #f67d4a;
+    border-right: 3px solid red;
     content: "";
     transition: all .5s;
     z-index: 11;
@@ -4393,7 +4393,7 @@ ul {
     right: 0;
     top: 0;
     width: 0;
-    border-top: 3px solid #f67d4a;
+    border-top: 3px solid red;
     content: "";
     transition: all .7s;
     z-index: 11;
@@ -4404,7 +4404,7 @@ ul {
     left: 0;
     bottom: 0;
     width: 0;
-    border-top: 3px solid #f67d4a;
+    border-top: 3px solid red;
     content: "";
     transition: all .3s;
     z-index: 11;
@@ -4691,8 +4691,8 @@ ul {
 .gallery-section .gallery-filters ul .current {
     color: #fff;
     text-decoration: none;
-    border-bottom: 3px solid #f67d4a;
-    background: #f67d4a;
+    border-bottom: 3px solid red;
+    background: red;
 }
 
 @media (max-width: 767px) {
@@ -4894,7 +4894,7 @@ ul {
   margin: 0 0 0.2em;
 }
 .team-section .details h3 a:hover{
-  color: #f67d4a;
+  color: red;
 }
 
 @media (max-width: 991px) {
@@ -5000,7 +5000,7 @@ ul {
 }
 
 .event-section .grid .details h3 a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .event-section .entry-meta {
@@ -5035,7 +5035,7 @@ ul {
 }
 
 .event-section .entry-meta li a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 
@@ -5195,7 +5195,7 @@ ul {
 }
 
 .blog-section .grid .details h3 a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .blog-section .details p {
@@ -5270,7 +5270,7 @@ ul {
 }
 
 .hero-style-2 .slide .slide-caption h2 span {
-    color: #f67d4a;
+    color: red;
 }
 
 .hero-style-2 .slide-caption p {
@@ -5285,9 +5285,9 @@ ul {
 }
 
 .hero-style-2 .theme-btn-s2:hover {
-    background-color: #f67d4a;
+    background-color: red;
     color: #fff;
-    border: 1px solid #f67d4a;
+    border: 1px solid red;
 }
 
 
@@ -5402,11 +5402,11 @@ breadcumb-style
 }
 
 .tp-breadcumb-wrap ul li a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-breadcumb-wrap ul li:last-child {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-breadcumb-wrap ul li:after {
@@ -5481,7 +5481,7 @@ breadcumb-style
 .tp-donations-amount input:focus,
 .tp-donations-details input:focus,
 .tp-donations-details textarea:focus {
-    border-color: #f67d4a;
+    border-color: red;
 }
 
 .payment-name ul li input {
@@ -5616,7 +5616,7 @@ breadcumb-style
 }
 
 .tp-payment-area .form-style input:focus {
-    border: 1px solid #f67d4a;
+    border: 1px solid red;
 }
 
 .tp-payment-area .contact-form {
@@ -5788,7 +5788,7 @@ breadcumb-style
 .contact-pg-contact-section .icon i {
     font-size: 20px;
     font-size: 1.25rem;
-    color: #f67d4a;
+    color: red;
 }
 
 .contact-pg-contact-section .contact-details h5 {
@@ -5830,7 +5830,7 @@ breadcumb-style
 .contact-pg-contact-section .contact-form textarea:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color: #f67d4a;
+    border-color: red;
 }
 
 .contact-pg-contact-section .contact-form form {
@@ -5888,7 +5888,7 @@ breadcumb-style
 }
 
 .contact-pg-contact-section .contact-form form .comment-area textarea:focus {
-    border-color: #f67d4a;
+    border-color: red;
     outline: none;
 }
 
@@ -5994,7 +5994,7 @@ breadcumb-style
 
 .case-bb-text ul li:before {
     content: "";
-    background: #f67d4a;
+    background: red;
     width: 8px;
     height: 8px;
     position: absolute;
@@ -6051,7 +6051,7 @@ breadcumb-style
 .tp-donations-amount input:focus,
 .tp-donations-details input:focus,
 .tp-donations-details textarea:focus {
-    border-color: #f67d4a;
+    border-color: red;
 }
 
 .payment-name ul li input {
@@ -6302,7 +6302,7 @@ breadcumb-style
     outline: none;
     border: none;
     color: #2d4277;
-    border-top: 4px solid #f67d4a;
+    border-top: 4px solid red;
 }
 
 .tp-event-details-content {
@@ -6324,7 +6324,7 @@ breadcumb-style
 
 #Schedule ul li:before {
     content: "";
-    background: #f67d4a;
+    background: red;
     width: 6px;
     height: 6px;
     position: absolute;
@@ -6381,7 +6381,7 @@ breadcumb-style
     position: relative;
     animation: animate-positive 4s;
     width: 65%;
-    background: #f67d4a;
+    background: red;
     height: 5px;
 }
 
@@ -6519,7 +6519,7 @@ breadcumb-style
 }
 
 .tp-blog-pg-section .entry-meta li a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-blog-pg-section .entry-meta>li:first-child {
@@ -6575,7 +6575,7 @@ breadcumb-style
 }
 
 .tp-blog-pg-section .post h3 a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-blog-pg-section .post p {
@@ -6591,7 +6591,7 @@ breadcumb-style
 
 .tp-blog-pg-section .post .read-more {
     font-weight: 600;
-    color: #f67d4a;
+    color: red;
     font-size: 18px;
 }
 
@@ -6627,7 +6627,7 @@ breadcumb-style
 }
 
 .tp-blog-pg-section .format-gallery .owl-controls .owl-nav [class*=owl-]:hover {
-    background: #f67d4a;
+    background: red;
     color: #fff;
 }
 
@@ -6894,7 +6894,7 @@ breadcumb-style
 }
 
 .tp-blog-single-section .entry-meta li a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-blog-single-section .entry-meta>li:first-child {
@@ -7087,7 +7087,7 @@ breadcumb-style
 }
 
 .tp-blog-single-section .tag-share .tag a:hover {
-    background-color: #f67d4a;
+    background-color: red;
     color: #fff;
 }
 
@@ -7106,9 +7106,9 @@ breadcumb-style
 }
 
 .tp-blog-single-section .tag-share .share a:hover {
-    background: #f67d4a;
+    background: red;
     color: #fff;
-    border-color: #f67d4a;
+    border-color: red;
 }
 
 .tp-blog-single-section .author-box {
@@ -7187,7 +7187,7 @@ breadcumb-style
 }
 
 .tp-blog-single-section .author-box .social-link a:hover {
-    color: #f67d4a;
+    color: red;
 }
 
 .tp-blog-single-section .more-posts {
@@ -7224,7 +7224,7 @@ breadcumb-style
 
 .tp-blog-single-section .more-posts .previous-post a:hover,
 .tp-blog-single-section .more-posts .next-post a:hover {
-    background-color: #f67d4a;
+    background-color: red;
     color: #fff;
 }
 
@@ -7321,7 +7321,7 @@ breadcumb-style
 
 .tp-blog-single-section .comments-area .comment-reply-link {
     font-size: 16px;
-    color: #f67d4a;
+    color: red;
     display: inline-block;
     border-radius: 50px;
     display: inline-block;
@@ -7391,7 +7391,7 @@ breadcumb-style
 .tp-blog-single-section .comment-respond form textarea:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color: #f67d4a;
+    border-color: red;
 }
 
 @media (max-width: 991px) {
@@ -7452,7 +7452,7 @@ breadcumb-style
 
 .tp-blog-single-section .comment-respond .form-submit input {
     max-width: 120px;
-    background:#f67d4a;
+    background:red;
     color: #fff;
     font-weight: 500;
     margin-bottom: 0;
@@ -7487,7 +7487,7 @@ breadcumb-style
 }
 
 .author-btn a:hover {
-    background-color: #f67d4a;
+    background-color: red;
     color: #fff;
 }
 .tp-counter-area.v2{
